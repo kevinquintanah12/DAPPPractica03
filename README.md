@@ -8,4 +8,4 @@ Posteriormente, el archivo .war generado se copia a la carpeta webapps de Tomcat
 1️⃣ Vista principal del listado de empleados
 
 Interfaz donde se muestra la colección completa de registros almacenados.
-<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/8af81039-cf32-4dd8-b4ef-18d28aa8d6a5" />
+<img width="1160" height="464" alt="image" src="https://github.com/user-attachments/assets/2a9f43b9-0cce-41a3-b2f2-aa263349c206" />
